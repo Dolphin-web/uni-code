@@ -3,6 +3,7 @@ div{
 }
 a{
 	text-decoration: none;
+	color: inherit;
 }
 a:hover{
 	color: #070707;
@@ -184,6 +185,13 @@ a:hover{
 }
 .item-cont4{
 	background-color: #438a54;
+}
+.a-cont{
+	transition: 0.5s;
+}
+.a-cont:hover{
+	transition: 0.5s;
+    transform: scale(1.05); 
 }
 .dis-contact{
 	margin-top: 35px;
