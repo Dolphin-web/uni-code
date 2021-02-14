@@ -187,90 +187,45 @@ a:hover{
 	font-size: 14px;
 	line-height: 17px;
 }
-@media screen and (max-width: 376px){
+@media screen and (max-width: 1025px){
 	.nav-element{
-		font-size: 12px;
-		line-height: 14px;
+		font-size: 18px;
+		line-height: 20px;
 	}
 	.name{
-		font-size: 30px;
+		font-size: 42px;
 	}
 	.old{
-		font-size: 14px;
-		line-height: 16px;
+		font-size: 18px;
+		line-height: 20px;
 	}
 	.lang{
-		font-size: 12px;
+		font-size: 16px;
 	}
 	.block2-one{
-		font-size: 22px;
-		line-height: 24px;
-		padding-top: 30px;
-	}
-	.block2-two{
-		font-size: 16px;
-		line-height: 18px;
-		padding: 0 20px 30px 20px;
-	}
-	.skills{
-	font-size: 24px;
-	}
-	.skill,.skill2{
-		font-size: 15px;
-	}
-	.block4 span{
-		font-size: 26px;
-	}
-	.cont{
-		font-size: 22px;
-	}
-	.item-cont1, .item-cont2, .item-cont3, .item-cont4{	
-		font-size: 14px;
-	}
-	.dis-contact{
-		font-size: 14px;
-		line-height: 17px;
-	}
-}
-@media screen and (max-width: 551px){
-	.nav-element{
-		font-size: 14px;
-		line-height: 14px;
-	}
-	.name{
-		font-size: 34px;
-	}
-	.old{
-		font-size: 16px;
-		line-height: 18px;
-	}
-	.lang{
-		font-size: 13px;
-	}
-	.block2-one{
-		font-size: 26px;
-		line-height: 28px;
+		font-size: 32px;
+		line-height: 36px;
 		padding-top: 45px;
 	}
 	.block2-two{
-		font-size: 18px;
+		font-size: 20px;
 		line-height: 24px;
-		padding-bottom: 45px;
+		padding: 20px 0 50px 0;
 	}
 	.skills{
-	font-size: 26px;
+	font-size: 36px;
 	}
 	.skill,.skill2{
-		font-size: 22px;
+		font-size: 26px;
 	}
 	.block4 span{
-		font-size: 26px;
+		font-size: 36px;
 	}
 	.cont{
-		font-size: 26px;
+		font-size: 36px;
 	}
 	.item-cont1, .item-cont2, .item-cont3, .item-cont4{	
-		font-size: 16px;
+		font-size: 22px;
 	}
 	.dis-contact{
 		font-size: 14px;
@@ -322,48 +277,94 @@ a:hover{
 		line-height: 17px;
 	}
 }
-@media screen and (max-width: 1025px){
+@media screen and (max-width: 551px){
 	.nav-element{
-		font-size: 18px;
-		line-height: 20px;
+		font-size: 14px;
+		line-height: 14px;
 	}
 	.name{
-		font-size: 42px;
+		font-size: 34px;
 	}
 	.old{
-		font-size: 18px;
-		line-height: 20px;
+		font-size: 16px;
+		line-height: 18px;
 	}
 	.lang{
-		font-size: 16px;
+		font-size: 13px;
 	}
 	.block2-one{
-		font-size: 32px;
-		line-height: 36px;
+		font-size: 26px;
+		line-height: 28px;
 		padding-top: 45px;
 	}
 	.block2-two{
-		font-size: 20px;
+		font-size: 18px;
 		line-height: 24px;
-		padding: 20px 0 50px 0;
+		padding-bottom: 45px;
 	}
 	.skills{
-	font-size: 36px;
+	font-size: 26px;
 	}
 	.skill,.skill2{
-		font-size: 26px;
+		font-size: 22px;
 	}
 	.block4 span{
-		font-size: 36px;
+		font-size: 26px;
 	}
 	.cont{
-		font-size: 36px;
+		font-size: 26px;
 	}
 	.item-cont1, .item-cont2, .item-cont3, .item-cont4{	
-		font-size: 22px;
+		font-size: 16px;
 	}
 	.dis-contact{
 		font-size: 14px;
 		line-height: 17px;
 	}
 }
+@media screen and (max-width: 376px){
+	.nav-element{
+		font-size: 12px;
+		line-height: 14px;
+	}
+	.name{
+		font-size: 30px;
+	}
+	.old{
+		font-size: 14px;
+		line-height: 16px;
+	}
+	.lang{
+		font-size: 12px;
+	}
+	.block2-one{
+		font-size: 22px;
+		line-height: 24px;
+		padding-top: 30px;
+	}
+	.block2-two{
+		font-size: 16px;
+		line-height: 18px;
+		padding: 0 20px 30px 20px;
+	}
+	.skills{
+	font-size: 24px;
+	}
+	.skill,.skill2{
+		font-size: 15px;
+	}
+	.block4 span{
+		font-size: 26px;
+	}
+	.cont{
+		font-size: 22px;
+	}
+	.item-cont1, .item-cont2, .item-cont3, .item-cont4{	
+		font-size: 14px;
+	}
+	.dis-contact{
+		font-size: 14px;
+		line-height: 17px;
+	}
+}
+
