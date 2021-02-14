@@ -283,24 +283,25 @@ a:hover{
 		line-height: 14px;
 	}
 	.name{
-		font-size: 34px;
+		font-size: 30px;
 	}
 	.old{
-		font-size: 16px;
-		line-height: 18px;
+		font-size: 14px;
+		line-height: 16px;
+		padding-right: 0;
 	}
 	.lang{
 		font-size: 13px;
 	}
 	.block2-one{
-		font-size: 26px;
-		line-height: 28px;
+		font-size: 24px;
+		line-height: 26px;
 		padding-top: 45px;
 	}
 	.block2-two{
-		font-size: 18px;
-		line-height: 24px;
-		padding-bottom: 45px;
+		font-size: 16px;
+		line-height: 22px;
+		padding: 35px 10px 0 10px;
 	}
 	.skills{
 	font-size: 26px;
