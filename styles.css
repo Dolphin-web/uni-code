@@ -394,4 +394,6 @@ a:hover{
 	.nav{
 		display: none;
 	}
+	.block1{
+	border:none;
 }
